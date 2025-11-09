@@ -1,2 +1,2 @@
-# tugas-css-muzaid-fathur-rahman
+# uts-css-muzaid-fathur-rahman
 landing page pribadi
